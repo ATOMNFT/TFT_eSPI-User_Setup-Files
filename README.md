@@ -19,6 +19,9 @@ These files need to be integrated into your TFT_eSPI library. The images below i
 Inside this file, identify the specific display you are using (refer to the provided images for guidance). To activate your preferred display device, uncomment the corresponding entry by removing the "//" preceding it. It is crucial to have only one display configuration uncommented at any given time and to verify the accuracy of the display name to avoid errors.
 
 <br>
+
+<b>Below you'll find instructions for certain projects using certain devices</b>
+
 <details>
 <summary>M5 Minigotchi Configuration</summary>
 <p align="left">If you intend to flash the minigotchi firmware to an M5 device, ensure you select one of the following User_Setup files that corresponds with the device available in the firmware:
