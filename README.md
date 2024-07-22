@@ -28,14 +28,14 @@ Inside this file, identify the specific display you are using (refer to the prov
 <br>
 - (User_Setup_CYD.h) For use with a ESP32-2432S028R also called a CYD 
 <br>
-2. (User_Setup_CYD2USB.h) For use with a CYD that has microUSB & USB-C 
+- (User_Setup_CYD2USB.h) For use with a CYD that has microUSB & USB-C 
 <br>
-3. (User_Setup_m5stickc.h) For use with a M5Stick C Plus 1.1 
+- (User_Setup_m5stickc.h) For use with a M5Stick C Plus 1.1 
 <br>
-4. (User_Setup_m5stickcp2.h) For use with a M5Stick C Plus 2 
+- (User_Setup_m5stickcp2.h) For use with a M5Stick C Plus 2 
 <br>
-5. (User_Setup_m5cardputer.h) For use with a M5Cardputer 
+- (User_Setup_m5cardputer.h) For use with a M5Cardputer 
 <br>
-6. (User_Setup_TTGO_NoTouch.h) For use with a generic TTGO T-Display choose this entry in User_Setup_Select.h file.
+- (User_Setup_TTGO_NoTouch.h) For use with a generic TTGO T-Display choose this entry in User_Setup_Select.h file.
 </p>
 </details>
