@@ -1,3 +1,14 @@
+## Custom User_Setup Files for Specific Firmwares and Devices
+<p>Custom User_Setup files are essential for ensuring proper functionality of certain firmwares and devices. These files contain crucial information such as GPIO pins, display configurations, and other necessary settings.
+
+Utilizing these files is straightforward, as each is designed with clear and intuitive naming conventions to simplify device configuration.</p>
+
+---
+
+## Screenshots
+
+---
+
 # Configuring User_Setup Files
 
 --Before proceeding, ensure you create a complete backup of the TFT_eSPI folder--
@@ -6,15 +17,6 @@ These files need to be integrated into your TFT_eSPI library. The images below i
 
 Inside this file, identify the specific display you are using (refer to the provided images for guidance). To activate your preferred display device, uncomment the corresponding entry by removing the "//" preceding it. It is crucial to have only one display configuration uncommented at any given time and to verify the accuracy of the display name to avoid errors.
 
-## Screenshots
-
-
----
-
-## Custom User_Setup Files for Specific Firmwares and Devices
-<p>Custom User_Setup files are essential for ensuring proper functionality of certain firmwares and devices. These files contain crucial information such as GPIO pins, display configurations, and other necessary settings.
-
-Utilizing these files is straightforward, as each is designed with clear and intuitive naming conventions to simplify device configuration.</p>
 <br>
 <details>
 <summary>M5 Minigotchi Configuration</summary>
