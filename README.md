@@ -26,7 +26,7 @@ Inside this file, identify the specific display you are using (refer to the prov
 <summary>Minigotchi Configurations</summary>
 <p align="left">If you intend to flash the minigotchi firmware to an M5 device or a generic ttgo t-display, ensure you select one of the following User_Setup files that corresponds with the device available in the firmware:
 <br>
-1. (User_Setup_CYD.h) For use with a ESP32-2432S028R also called a CYD 
+- (User_Setup_CYD.h) For use with a ESP32-2432S028R also called a CYD 
 <br>
 2. (User_Setup_CYD2USB.h) For use with a CYD that has microUSB & USB-C 
 <br>
