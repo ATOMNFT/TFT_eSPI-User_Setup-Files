@@ -1,9 +1,9 @@
 # Configuring User_Setup Files
-(Before adding these file make a full back of the TFT_eSPI folder) <br>
-These files are to be added to your TFT_eSPI library. The images below show the location of the library folder that you will need to move these files to. After moving these files locate and open the User_Setup_Select.h file.
+**Before proceeding, ensure you create a complete backup of the TFT_eSPI folder**
 
-Inside this file locate the display you are using. (Use pic for ref)
-To use the display/device of your choice remove the // in front of the entry. Make sure only one display is uncommented at a time and also pay attention to the name to minimize error.
+These files need to be integrated into your TFT_eSPI library. The images below illustrate the precise location within the library folder where these files should be placed. Once relocated, locate and open the User_Setup_Select.h file.
+
+Inside this file, identify the specific display you are using (refer to the provided images for guidance). To activate your preferred display device, uncomment the corresponding entry by removing the "//" preceding it. It is crucial to have only one display configuration uncommented at any given time and to verify the accuracy of the display name to avoid errors.
 
 ## Screenshots
 
