@@ -1,5 +1,6 @@
 # Configuring User_Setup Files
-**Before proceeding, ensure you create a complete backup of the TFT_eSPI folder**
+
+*Before proceeding, ensure you create a complete backup of the TFT_eSPI folder*
 
 These files need to be integrated into your TFT_eSPI library. The images below illustrate the precise location within the library folder where these files should be placed. Once relocated, locate and open the User_Setup_Select.h file.
 
