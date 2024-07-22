@@ -6,7 +6,7 @@ Utilizing these files is straightforward, as each is designed with clear and int
 ---
 
 ## Screenshots
-
+Coming soon!
 ---
 
 # Configuring User_Setup Files
