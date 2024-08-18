@@ -43,7 +43,6 @@
 
 //#include <User_Setup_TTGO_NoTouch.h>             // (For TTGO T-Display)
 //#include <User_Setup_TTGO_Touch.h>               // (For TTGO T-Display Touch)
-//#include <User_Setup_TTGO_marauder.h>            // (For Marauder TTGO T-Display)
 //----------------------------------------------------------------------------------------
 
 ////////////////////////////////////
