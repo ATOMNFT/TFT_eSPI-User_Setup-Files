@@ -36,7 +36,7 @@
 //#include <User_Setup_CYD_LVGL.h>                 // (For CYD with LVGL)
 //----------------------------------------------------------------------------------------
 
-//#include <User_Setup_m5stickcp.h>                 // (For M5Stick CPlus 1.1)
+//#include <User_Setup_m5stickcp.h>                // (For M5Stick CPlus 1.1)
 //#include <User_Setup_m5stickcp2.h>               // (For M5Stick CPlus 2)
 //#include <User_Setup_m5cardputer.h>              // (For M5Cardputer)
 //----------------------------------------------------------------------------------------
@@ -51,8 +51,7 @@
 //////////////////////////////////
 
 
-//#include <User_Setups/CYD_ESP32_2432S028.h>  // Setup file for Cheap Yellow Display
-
+//#include <User_Setups/CYD_ESP32_2432S028.h>        // Alternate setup file for Cheap Yellow Display
 //#include <User_Setups/Setup1_ILI9341.h>            // Setup file for ESP8266 configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>             // Setup file for ESP8266 configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>            // Setup file for ESP8266 configured for my ILI9163
