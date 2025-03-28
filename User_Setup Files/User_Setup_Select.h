@@ -23,7 +23,7 @@
 // Only ONE line below should be uncommented to define your setup.  Add extra lines and files as needed.
 
 ////////////////////////////////
-// (CUSTOM User Setup Files) //-----------------------------------------------------------------------
+// (CUSTOM User Setup Files) //-------------------------------------------------------------------------------------------------------------------------------
 //////////////////////////////
 
 //#include <User_Setup_Generic.h>                  // (Generic Setup)
@@ -31,7 +31,7 @@
 //#include <User_Setup_JCMK.h>                     // (Generic Setup by JustCallMeKoKo)
 //----------------------------------------------------------------------------------------
 
-//#include <User_Setup_CYD.h>                      // (For CYD)
+#include <User_Setup_CYD.h>                      // (For CYD)
 //#include <User_Setup_CYD2USB.h>                  // (For CYD2USB)
 //#include <User_Setup_CYD_LVGL.h>                 // (For CYD with LVGL)
 //----------------------------------------------------------------------------------------
@@ -43,12 +43,22 @@
 
 //#include <User_Setup_TTGO_NoTouch.h>             // (For TTGO T-Display)
 //#include <User_Setup_TTGO_Touch.h>               // (For TTGO T-Display Touch)
+//#include <User_Setup_TTGO_marauder.h>            // (For Marauder TTGO T-Display)
+//#include <User_Setup_LilyGo_T_Embed_S3.h>        // (For T-Embed Display)
+//----------------------------------------------------------------------------------------
+
+//#include <User_Setup_ESP32-C3-MINI.h>        // (For ESP32-C3-SuperMini)
+//#include <User_Setup_ESP32-S2-MINI.h>        // (For ESP32-S2-Mini)
 //----------------------------------------------------------------------------------------
 
 ////////////////////////////////////
-// (END CUSTOM User Setup Files) //----------------------------------------------------------------------
+// (END CUSTOM User Setup Files) //---------------------------------------------------------------------------------------------------------------------------
 //////////////////////////////////
 
+
+///////////////////////////////
+// (Stock User Setup Files) //--------------------------------------------------------------------------------------------------------------------------------
+/////////////////////////////
 
 //#include <User_Setups/CYD_ESP32_2432S028.h>        // Alternate setup file for Cheap Yellow Display
 //#include <User_Setups/Setup1_ILI9341.h>            // Setup file for ESP8266 configured for my ILI9341
@@ -181,6 +191,10 @@
 //#include <User_Setups/Dustin_STT7789_ESP32.h>    // Setup file for Dustin Watts PCB with ST7789 240 x 240 on 3.3V adapter board
 //#include <User_Setups/Dustin_ILI9341_ESP32.h>    // Setup file for Dustin Watts PCB with ILI9341
 //#include <User_Setups/ILI9225.h>
+
+////////////////////////////////////
+// (End stock User Setup Files) //--------------------------------------------------------------------------------------------------------------------------------
+//////////////////////////////////
 
 #endif // USER_SETUP_LOADED
 
